@@ -17,7 +17,6 @@
             _clickCount = 0,
             _move,
             _clickEvent;
-            // _prevButton.hide();
 
             _main.css({
                'width' : _itemWidth * _item.length
